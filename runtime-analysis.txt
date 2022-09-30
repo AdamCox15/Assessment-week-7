@@ -1,0 +1,21 @@
+tinyArray = 
+insert 22.45 us
+append 115.35 us
+
+
+smallArray = 
+insert 84.99 us
+append 108.21 us
+
+mediumArray = 
+insert 212.95 us
+append 153.12 us
+
+
+largeArray = 
+insert 7.121 ms
+append 489.66 us
+
+extraLargeArray =
+ insert = 761.659 ms
+ append = 3.655 ms
