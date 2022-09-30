@@ -17,5 +17,5 @@ insert 7.121 ms
 append 489.66 us
 
 extraLargeArray =
- insert = 761.659 ms
- append = 3.655 ms
+insert = 761.659 ms
+append = 3.655 ms
